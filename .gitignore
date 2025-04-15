@@ -5,7 +5,7 @@ Your `.gitignore` file looks good, but here are a few points to consider:
 3. `/**.pyc` will ignore all `.pyc` files in all directories, which is fine.
 4. `/**/__pycache__/` will ignore all `__pycache__` directories in all directories, which is also fine.
 
-If this matches your intent, the file is correct. Otherwise, adjust the paths as needed.
+
 
 /**/__pycache__/
 /**.pyc
